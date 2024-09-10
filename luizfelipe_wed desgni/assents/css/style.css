@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+*/
+
+*/
+body {
+    background-color: #73c8e9;
+}
+
+nav {
+    background-color: rgb(122, 199, 237);
+}
+
+main {
+    background-color: #65bee1;
+}
+
+header {
+    background-color: rgb(0, 255, 255);
+}
+
+footer {
+    background-color: #5adbf2;
+}
+
